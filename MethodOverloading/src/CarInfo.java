@@ -1,5 +1,3 @@
-import java.util.Random;
-
 public class CarInfo {
     String color;
     String model;
