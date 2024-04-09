@@ -4,7 +4,7 @@ abstract class Bank {
 class BOC extends Bank {
     @Override
     int interestRate() {
-        return 8;
+        return 5;
     }
 }
 class HNB extends  Bank{
