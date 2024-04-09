@@ -10,7 +10,7 @@ class BOC extends Bank {
 class HNB extends  Bank{
     @Override
     int interestRate() {
-        return 10;
+        return 8.5;
     }
 }
 class Test{
